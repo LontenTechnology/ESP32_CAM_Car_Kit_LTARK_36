@@ -4,7 +4,7 @@ If you are interested in source code and have the ability to develop it, you can
 
 https://github.com/LontenTechnology/ESP32_CAM_Car_Kit_LTARK_36
 
-<img src='list.png' width='100%'/>
+<img src='清单.png' width='100%'/>
 
 ### Download
 
